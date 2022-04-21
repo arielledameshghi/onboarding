@@ -29,3 +29,5 @@
   
 <!-- TODO: add steps to clone aa-ct-fly-sspr-docs for the purpose of testing that the SSH key works -->
 - After creating a new "Projects" (or whatever you wanna name it) directory inside your user directory, open a command terminal
+
+- Install JDK
