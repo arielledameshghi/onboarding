@@ -22,3 +22,10 @@
 - Install Git from command line with **`npm i git`**
 
 - Request *Enterprise Directory*, *Internet*, *Windows*, *Wireless*, and *VPN* access via https://sam.aa.com
+
+- Set up GitHub SSH
+  - **What/why**: lets you connect and authenticate to remote servers and services (like GitHub) without supplying your username and personal access token at each visit
+<!-- TODO: finish SSH steps -->
+  
+<!-- TODO: add steps to clone aa-ct-fly-sspr-docs for the purpose of testing that the SSH key works -->
+- After creating a new "Projects" (or whatever you wanna name it) directory inside your user directory, open a command terminal
