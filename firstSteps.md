@@ -14,14 +14,19 @@
   - In the box with the title "Github Enterprise Cloud Access" click the "GET ACCESS" link
   - Enter AA email
   - Click "SUBMIT" button
+
+- Request *Enterprise Directory*, *Internet*, *Windows*, *Wireless*, and *VPN* access via https://sam.aa.com
+
+- Request developer rights to gain admin permissions on your laptop (so you can actually install stuff):
+  - Go to https://technologyservices.aa.com
+  - Hover over "Request Service" and select "Technology Requests"
+  - Under the *Workstations and Laptops* section and under the *Software* section, click "Request developer rights"
   
 - [Install Node.js](https://nodejs.org/en/download/)
 
 - For Mac users only: [install Homebrew](https://brew.sh/)
 
 - Install Git from command line with **`npm i git`**
-
-- Request *Enterprise Directory*, *Internet*, *Windows*, *Wireless*, and *VPN* access via https://sam.aa.com
 
 - Set up GitHub SSH
   - **What/why**: lets you connect and authenticate to remote servers and services (like GitHub) without supplying your username and personal access token at each visit
