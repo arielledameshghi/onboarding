@@ -16,6 +16,13 @@
   - Click "SUBMIT" button
 
 - Request *Enterprise Directory*, *Internet*, *Windows*, *Wireless*, and *VPN* access via https://sam.aa.com
+  - If new hire still can't connect to VPN, follow these steps:
+    - Go to https://technologyservices.aa.com
+    - Click "Submit Incident" button on homepage
+    - Under "Identity Management (IDM)" section, select "EID Review
+    - Make sure the "Requested for" field has new hire's name
+    - Under "Full description" write something to the effect of "New hire requested VPN access via SAM but still can't connect"
+  - Note on VPN access: before you can request developer rights (see next bullet point), you have to be on VPN
 
 - Request developer rights to gain admin permissions on your laptop (so you can actually install stuff):
   - Go to https://technologyservices.aa.com
