@@ -4,7 +4,7 @@
   - **For employees**: https://github.com/arielledameshghi/onboarding/blob/main/First_Time_User_Registration_Employee.pdf
   - **For contractors**: https://github.com/arielledameshghi/onboarding/blob/main/First_Time_User_Registration_Contractor.pdf
 ### [Submit a request](https://badging.aa.com) for a new badge from Badging Office
-- [Request parking access](https://spportal.aa.com/sites/AA/HDQ/default.aspx) for Skyview 7 parking garage
+### [Request parking access](https://spportal.aa.com/sites/AA/HDQ/default.aspx) for Skyview 7 parking garage
 ### If your preferred IDE requires a license (e.g. IntelliJ IDEA Ultimate), email your manager to request it
   - In the meantime, use a free version
 
@@ -19,7 +19,7 @@
   - If new hire still can't connect to VPN, follow these steps:
     - Go to https://technologyservices.aa.com
     - Click "Submit Incident" button on homepage
-    - Under "Identity Management (IDM)" section, select "EID Review
+    - Under "Identity Management (IDM)" section, select "EID Review"
     - Make sure the "Requested for" field has new hire's name
     - Under "Full description" write something to the effect of "New hire requested VPN access via SAM but still can't connect"
   - Note on VPN access: before you can request developer rights (see next bullet point), you have to be on VPN
@@ -40,6 +40,6 @@
 <!-- TODO: finish SSH steps -->
   
 <!-- TODO: add steps to clone aa-ct-fly-sspr-docs for the purpose of testing that the SSH key works -->
-- After creating a new "Projects" (or whatever you wanna name it) directory inside your user directory, open a command terminal
+<!-- - After creating a new "Projects" (or whatever you wanna name it) directory inside your user directory, open a command terminal -->
 
 ### Install JDK
